@@ -1,2 +1,2 @@
-# Esnart-s-restaurant
+# Esnart's restaurant
 mobile development project
